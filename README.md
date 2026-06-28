@@ -16,8 +16,8 @@ AnesPKPD是一套麻醉药理药代动力学/药效动力学（PK/PD）教学的
 | ---------- | -------------- | ----------------------------------------------- | ---------------------------- |
 | Notebook 1 | 一室模型与PK/PD基础 | 一室模型、血浆浓度、效应室浓度、效应延迟、基础PK/PD概念                | [Open in Colab](https://colab.research.google.com/drive/1eI3Qyy2nxCTspJ_RO2bdoVXbFk-gc9HG) |
 | Notebook 2 | 二室模型与多室模型入门    | 一室、二室、三室模型比较；中央室与外周室；分布和消除过程                    | [Open in Colab](https://colab.research.google.com/drive/1qfTbAAfowRtQxQ7fvaoMbtDUKGzNGuy-) |
-| Notebook 3 | 静脉给药方式与输注策略    | 单次 bolus、多次bolus、持续输注、bolus + infusion、稳态与停药恢复 | [Open in Colab](COLAB_URL_3) |
-| Notebook 4 | 丙泊酚PK/PD模拟   | 丙泊酚三室PK模型、效应室模型、BIS/药效模拟、输注与恢复                | [Open in Colab](COLAB_URL_4) |
+| Notebook 3 | 静脉给药方式与输注策略    | 单次 bolus、多次bolus、持续输注、bolus + infusion、稳态与停药恢复 | [Open in Colab](https://colab.research.google.com/drive/1gVivIdT7Y0skKSQobOjGDoBDafzGEo4y) |
+| Notebook 4 | 丙泊酚PK/PD模拟   | 丙泊酚三室PK模型、效应室模型、BIS/药效模拟、输注与恢复                | [Open in Colab](https://colab.research.google.com/drive/1SRYkLSaQs2uZTdQOiC-yy_s_1RllqOuS) |
 | Notebook 5 | 瑞芬太尼PK/PD模拟  | 瑞芬太尼快速起效与消退、效应室浓度、镇痛效应、输注策略模拟                   | [Open in Colab](https://colab.research.google.com/drive/1U1mjebEGqETKyBaxrYr7DRmuXfFMrUjx) |
 
 ---
