@@ -1,4 +1,4 @@
-# AnesPKPD：麻醉药理PK/PD交互式教学Notebook
+# AnesPKPD：麻醉药理PK/PD交互式学习Notebook
 
 ## 项目简介
 
